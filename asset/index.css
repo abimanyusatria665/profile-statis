@@ -16,6 +16,10 @@
 }
 
 .btn {
-  background-color: rgb(138, 47, 110);
-  color: rgb(222, 182, 171);
+  background-color: #6a4659;
+  color: #f8ecd1;
+}
+
+.border {
+  border: 1px solid black;
 }
